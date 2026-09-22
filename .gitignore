@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+venv/
+.venv/
+.env
+.env.*
+
+# Editors / OS
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Project generated files
+output/
+*.png
+*.sqlite
+*.sqlite3
+*.db
+.pytest_cache/
+.mypy_cache/
+
+# Streamlit
+.streamlit/
